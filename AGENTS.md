@@ -6,6 +6,7 @@
 - The GitHub repository for this project is `Llindley/FXServices`.
 - Prefer updating files in the GitHub repo directly when making user-requested project changes.
 - After making changes, push them to the GitHub project unless the user explicitly asks not to.
+- Use the Page Design MCP when making design or layout changes to the project so visual updates are guided by the design tooling.
 
 ## Deployment Workflow
 
